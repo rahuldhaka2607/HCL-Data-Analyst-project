@@ -242,7 +242,5 @@ This project utilized AI assistance (Antigravity by Google DeepMind) as an archi
 
 ## 11. Demonstration Video & GitHub Setup
 
-- **GitHub Repository:** `https://github.com/<your-username>/loan-default-analysis-risk-dashboard`
-- **Video Walkthrough (5 Mins):** *[Insert YouTube / Loom Walkthrough Link Here]*
-- **Author:** Rahul (B.Tech 2nd Year Computer Science & Engineering)  
-- **Academic Mentor:** Senior Data Analyst & Course Evaluator
+- **GitHub Repository:** https://github.com/rahuldhaka2607/HCL-Data-Analyst-project
+- **Author:** Rahul Dhaka

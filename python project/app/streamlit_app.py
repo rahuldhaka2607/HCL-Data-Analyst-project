@@ -708,7 +708,7 @@ elif page == "11. Project Information":
     - **Project No.:** 6
     - **Official Title:** Loan Default Analysis and Risk Dashboard
     - **Domain:** Banking & Financial Services
-    - **Developer:** B.Tech 2nd-Year CSE Student
+    - **Developer:** Rahul Dhaka
     - **Technology Stack:** Python 3.x, Streamlit, Plotly, SQLite, Microsoft Power BI Desktop, Microsoft Excel
     
     ### Dimensional Architecture
