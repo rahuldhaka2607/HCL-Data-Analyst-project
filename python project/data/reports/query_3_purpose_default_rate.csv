@@ -1,0 +1,8 @@
+loan_purpose,total_loans,eligible_closed_loans,defaulted_loans,default_rate_pct,total_volume_disbursed,avg_interest_rate
+Small Business,820,255,219,85.88,15487700.0,15.5
+Debt Consolidation,4469,1375,1102,80.15,83100600.0,15.29
+Car,303,70,55,78.57,5545400.0,15.46
+Credit Card,2205,571,438,76.71,41281700.0,15.32
+Home Improvement,1177,323,247,76.47,22131600.0,14.99
+Medical,466,125,95,76.0,8891000.0,14.76
+Major Purchase,461,128,87,67.97,8935300.0,14.78

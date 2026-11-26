@@ -1,0 +1,133 @@
+{
+    "total_loans": 9901,
+    "total_loan_amount": 185373300.0,
+    "total_borrowers": 8718,
+    "eligible_loans": 2847,
+    "defaulted_loans": 2243,
+    "default_rate_pct": 78.78,
+    "average_loan_amount": 18722.68,
+    "average_credit_score": 683.1,
+    "total_outstanding_balance": 118836026.27,
+    "total_repayment": 83658386.13,
+    "default_rate_by_grade": {
+        "A": {
+            "total_loans": 1848,
+            "eligible_loans": 271,
+            "defaulted_loans": 133,
+            "default_rate_pct": 49.08,
+            "total_volume": 37250900.0
+        },
+        "B": {
+            "total_loans": 2337,
+            "eligible_loans": 470,
+            "defaulted_loans": 316,
+            "default_rate_pct": 67.23,
+            "total_volume": 45803300.0
+        },
+        "C": {
+            "total_loans": 2149,
+            "eligible_loans": 564,
+            "defaulted_loans": 422,
+            "default_rate_pct": 74.82,
+            "total_volume": 40786000.0
+        },
+        "D": {
+            "total_loans": 1617,
+            "eligible_loans": 573,
+            "defaulted_loans": 484,
+            "default_rate_pct": 84.47,
+            "total_volume": 29342500.0
+        },
+        "E": {
+            "total_loans": 1127,
+            "eligible_loans": 484,
+            "defaulted_loans": 431,
+            "default_rate_pct": 89.05,
+            "total_volume": 19309400.0
+        },
+        "F": {
+            "total_loans": 548,
+            "eligible_loans": 304,
+            "defaulted_loans": 287,
+            "default_rate_pct": 94.41,
+            "total_volume": 9215800.0
+        },
+        "G": {
+            "total_loans": 275,
+            "eligible_loans": 181,
+            "defaulted_loans": 170,
+            "default_rate_pct": 93.92,
+            "total_volume": 3665400.0
+        }
+    },
+    "default_rate_by_income_band": {
+        "< $35,000": {
+            "total_loans": 92,
+            "eligible_loans": 51,
+            "defaulted_loans": 48,
+            "default_rate_pct": 94.12
+        },
+        "$35,000 - $60,000": {
+            "total_loans": 1005,
+            "eligible_loans": 393,
+            "defaulted_loans": 342,
+            "default_rate_pct": 87.02
+        },
+        "$60,000 - $100,000": {
+            "total_loans": 6345,
+            "eligible_loans": 1814,
+            "defaulted_loans": 1419,
+            "default_rate_pct": 78.22
+        },
+        "> $100,000": {
+            "total_loans": 2459,
+            "eligible_loans": 589,
+            "defaulted_loans": 434,
+            "default_rate_pct": 73.68
+        }
+    },
+    "default_rate_by_purpose": {
+        "Car": {
+            "total_loans": 303,
+            "eligible_loans": 70,
+            "defaulted_loans": 55,
+            "default_rate_pct": 78.57
+        },
+        "Credit Card": {
+            "total_loans": 2205,
+            "eligible_loans": 571,
+            "defaulted_loans": 438,
+            "default_rate_pct": 76.71
+        },
+        "Debt Consolidation": {
+            "total_loans": 4469,
+            "eligible_loans": 1375,
+            "defaulted_loans": 1102,
+            "default_rate_pct": 80.15
+        },
+        "Home Improvement": {
+            "total_loans": 1177,
+            "eligible_loans": 323,
+            "defaulted_loans": 247,
+            "default_rate_pct": 76.47
+        },
+        "Major Purchase": {
+            "total_loans": 461,
+            "eligible_loans": 128,
+            "defaulted_loans": 87,
+            "default_rate_pct": 67.97
+        },
+        "Medical": {
+            "total_loans": 466,
+            "eligible_loans": 125,
+            "defaulted_loans": 95,
+            "default_rate_pct": 76.0
+        },
+        "Small Business": {
+            "total_loans": 820,
+            "eligible_loans": 255,
+            "defaulted_loans": 219,
+            "default_rate_pct": 85.88
+        }
+    }
+}

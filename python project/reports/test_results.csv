@@ -1,0 +1,11 @@
+Test_ID,Test_Name,Status,Verification_Details
+TC-01,No Duplicate Primary Keys,PASS,"Total IDs: 9901, Unique IDs: 9901"
+TC-02,No Missing Required Fields,PASS,Found 0 missing values across required columns
+TC-03,Valid Value Ranges,PASS,"Found 0 range violations (Credit Score 300-850, Loan > $0, Age 18-100)"
+TC-04,Python Total Equals SQL Total,PASS,"Python Rows: 9,901 | SQL FACT_LOANS Rows: 9,901"
+TC-05,Referential Integrity Verified,PASS,Orphaned foreign key fact records: 0
+TC-06,Default Rate Calculation Rigor,PASS,"Eligible: 2,847, Defaulted: 2,243, Rate: 78.78%"
+TC-07,Risk Band Dual-Trigger Classification,PASS,Successfully validated 4/4 boundary test scenarios
+TC-08,Missing Income Imputation,PASS,Remaining unhandled missing income records: 0
+TC-09,Extreme Loan Amounts Quarantined,PASS,Detected and quarantined 30 extreme outlier loans
+TC-10,Invalid Loan Status Standardization,PASS,Remaining unmapped status codes: 0

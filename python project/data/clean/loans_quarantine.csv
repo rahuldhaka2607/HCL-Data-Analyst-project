@@ -1,0 +1,150 @@
+loan_id,customer_id,age,gender,employment_type,annual_income,credit_score,loan_amount,loan_term_months,interest_rate,loan_purpose,loan_grade,debt_to_income_ratio,existing_loans,home_ownership,loan_issue_date,loan_status,total_payment,outstanding_balance,default_flag,quarantine_reason
+LN-105016,CUST-15017,40,Female,Salaried,89605.18,638,12600.0,60,19.59,Debt Consolidation,D,24.8,1,MORTGAGE,2021-12-04,Current,7147.65,7239.26,0,Duplicate Loan ID
+LN-107293,CUST-17294,30,Male,Salaried,62245.4,652,7700.0,36,19.56,Credit Card,D,21.54,0,RENT,2023-08-24,Charged Off,3093.96,4606.04,1,Duplicate Loan ID
+LN-100683,CUST-10684,34,Male,Self-Employed,63834.2,699,23000.0,36,16.73,Major Purchase,C,15.34,0,RENT,2021-04-19,Fully Paid,28771.85,0.0,0,Duplicate Loan ID
+LN-108622,CUST-18623,39,Female,Salaried,70883.8,563,13800.0,36,27.91,Debt Consolidation,F,23.76,1,MORTGAGE,2021-05-24,Fully Paid,19577.37,0.0,0,Duplicate Loan ID
+LN-101496,CUST-11497,35,Female,Salaried,75806.17,555,30500.0,36,26.64,Debt Consolidation,F,41.52,1,RENT,2021-02-16,Charged Off,8480.59,22019.41,1,Duplicate Loan ID
+LN-104865,CUST-14866,24,Male,Self-Employed,66553.25,707,17800.0,60,12.27,Debt Consolidation,B,15.81,2,MORTGAGE,2021-02-28,Current,12594.69,8353.98,0,Duplicate Loan ID
+LN-103539,CUST-13540,41,Male,Salaried,103173.53,740,18200.0,36,12.22,Debt Consolidation,B,19.32,0,MORTGAGE,2024-06-01,Current,536.44,17797.67,0,Duplicate Loan ID
+LN-104320,CUST-14321,37,male  ,  SELF-EMPLOYED,72137.96,718,16600.0,36,12.6,Credit Card,B,14.23,2,own,2022-02-06,Current,14214.67,5939.0,0,Duplicate Loan ID
+LN-106631,CUST-16632,46,Other,Salaried,90351.12,627,26000.0,36,20.47,Home Improvement,D,22.53,1,RENT,2023-11-03,Current,6369.13,21223.15,0,Duplicate Loan ID
+LN-102213,CUST-12214,27,Female,Self-Employed,65765.06,638,17600.0,60,20.9,Small Business,D,31.75,1,OWN,2022-05-05,Charged Off,6659.4,10940.6,1,Duplicate Loan ID
+LN-108103,CUST-18104,42,Male,Self-Employed,90529.72,705,32500.0,60,9.87,Small Business,B,35.98,4,OWN,2024-03-04,Current,1705.19,31221.11,0,Duplicate Loan ID
+LN-106641,CUST-16642,38,Male,Self-Employed,107810.27,678,24400.0,60,16.82,Debt Consolidation,C,18.15,1,OWN,2022-10-14,Current,8817.35,17786.99,0,Duplicate Loan ID
+LN-100423,CUST-10424,24,Male,Salaried,90545.05,624,29500.0,36,17.88,Small Business,D,16.97,1,RENT,2022-11-01,Current,17854.06,16109.45,0,Duplicate Loan ID
+LN-100587,CUST-10588,36,Female,Contract,70737.07,712,17000.0,60,9.02,Debt Consolidation,B,13.14,1,MORTGAGE,2022-07-18,Current,6810.57,11892.07,0,Duplicate Loan ID
+LN-107814,CUST-17815,43,Male,Salaried,103403.03,673,14300.0,36,15.35,Debt Consolidation,C,34.73,1,RENT,2022-12-19,Default,2697.16,11602.84,1,Duplicate Loan ID
+LN-103500,CUST-13501,52,Other,Business,126471.41,808,22700.0,60,8.45,Debt Consolidation,A,11.9,3,RENT,2023-11-17,Current,2760.23,20629.83,0,Duplicate Loan ID
+LN-100207,CUST-10208,33,Male,Salaried,90704.78,685,32300.0,60,16.29,Debt Consolidation,C,34.16,1,RENT,2021-10-23,Current,18629.78,18327.67,0,Duplicate Loan ID
+LN-102342,CUST-12343,63,Female,Salaried,97161.86,628,3600.0,36,17.66,Debt Consolidation,D,21.54,0,RENT,2022-05-05,Current,2829.58,1477.82,0,Duplicate Loan ID
+LN-101828,CUST-11829,36,Male,Self-Employed,94821.49,653,31900.0,60,18.31,Credit Card,D,25.15,1,MORTGAGE,2022-01-13,Current,17410.22,18842.33,0,Duplicate Loan ID
+LN-107779,CUST-17780,27,Female,Salaried,91058.57,633,20200.0,36,17.22,Debt Consolidation,D,28.95,1,RENT,2023-10-07,Current,4875.38,16543.47,0,Duplicate Loan ID
+LN-101520,CUST-11521,21,Other,Salaried,46574.54,600,15200.0,60,21.78,Credit Card,E,33.81,2,RENT,0000-00-00,Current,6461.19,10354.11,0,Duplicate Loan ID
+LN-105024,CUST-15025,41,Male,Salaried,75843.21,581,13400.0,60,24.85,Credit Card,E,32.41,1,OWN,2023-10-25,Charged Off,2865.9,10534.1,1,Duplicate Loan ID
+LN-109637,CUST-10838,42,Female,Salaried,97901.23,730,12300.0,36,12.92,Home Improvement,B,34.43,1,RENT,2021-04-10,Fully Paid,14683.74,0.0,0,Duplicate Loan ID
+LN-105412,CUST-15413,43,Female,Salaried,81611.08,605,34300.0,36,22.91,Credit Card,E,24.35,2,MORTGAGE,2022-01-24,Charged Off,13449.3,20850.7,1,Duplicate Loan ID
+LN-108824,CUST-10025,41,Female,Salaried,96983.48,736,32600.0,36,12.2,Debt Consolidation,B,31.14,1,MORTGAGE,2024-01-12,Current,4803.97,28997.02,0,Duplicate Loan ID
+LN-104229,CUST-14230,23,Female,Self-Employed,59485.34,663,17000.0,60,14.21,Debt Consolidation,C,20.54,1,RENT,2023-02-11,Current,4855.43,13358.43,0,Duplicate Loan ID
+LN-109343,CUST-10544,36,Female,Salaried,66468.3,631,13700.0,36,20.12,Small Business,D,22.02,2,MORTGAGE,2024-02-27,Charged Off,5372.06,8327.94,1,Duplicate Loan ID
+LN-106710,CUST-16711,23,Male,Salaried,71105.84,730,8900.0,60,12.82,Small Business,B,24.08,3,MORTGAGE,2024-02-07,Current,631.37,8426.47,0,Duplicate Loan ID
+LN-108418,CUST-18419,39,Female,Salaried,84623.13,664,19100.0,60,13.31,Major Purchase,C,22.21,0,RENT,2022-11-30,Current,6450.85,14261.86,0,Duplicate Loan ID
+LN-105372,CUST-15373,57,Female,Salaried,91556.71,667,32200.0,60,16.87,Credit Card,C,36.51,2,RENT,2023-01-08,Charged Off,12483.51,19716.49,1,Duplicate Loan ID
+LN-100017,CUST-10018,59,Male,Salaried,43289.78,341,18500.0,36,30.22,Debt Consolidation,G,42.4,0,MORTGAGE,2021-03-15,Fully Paid,26886.05,0.0,0,Duplicate Loan ID
+LN-108210,CUST-18211,41,Male,Business,133156.4,663,18800.0,36,13.06,Small Business,C,21.61,0,RENT,2021-08-22,Current,18914.99,4613.76,0,Duplicate Loan ID
+LN-108439,CUST-18440,22,Male,Business,129431.59,840,18900.0,36,6.99,Credit Card,A,11.52,4,OWN,2023-04-02,Current,8150.23,12787.33,0,Duplicate Loan ID
+LN-107796,CUST-17797,43,Female,Business,94842.7,638,14400.0,36,20.59,Medical,D,30.35,0,RENT,2023-02-28,Charged Off,4057.54,10342.46,1,Duplicate Loan ID
+LN-107950,CUST-17951,63,Other,Salaried,78189.59,632,23900.0,36,18.69,Home Improvement,D,17.27,2,MORTGAGE,2023-03-06,Current,11614.87,15188.85,0,Duplicate Loan ID
+LN-103770,CUST-13771,41,Male,Self-Employed,94513.75,703,37700.0,36,9.05,Debt Consolidation,B,19.81,5,MORTGAGE,2021-09-17,Current,36122.1,10608.43,0,Duplicate Loan ID
+LN-105565,CUST-15566,24,Male,Business,87637.9,695,16500.0,60,13.78,Credit Card,C,19.17,2,RENT,2023-02-09,Current,4703.16,12972.63,0,Duplicate Loan ID
+LN-102100,CUST-12101,42,Male,Salaried,94488.5,636,39800.0,60,17.56,Credit Card,D,29.03,0,RENT,2021-08-17,In Grace Period,24533.52,21399.86,0,Duplicate Loan ID
+LN-104547,CUST-14548,65,Female,Self-Employed,90519.57,624,26700.0,36,19.38,Car,D,18.71,3,RENT,2024-05-24,Charged Off,7019.23,19680.77,1,Duplicate Loan ID
+LN-100576,CUST-10577,40,Male,Salaried,100679.95,741,5500.0,60,11.3,Debt Consolidation,B,35.02,1,MORTGAGE,2023-09-17,Current,871.61,4846.29,0,Duplicate Loan ID
+LN-106429,CUST-16430,21,Female,Salaried,66842.07,635,29100.0,60,18.39,Debt Consolidation,D,19.29,3,OWN,2023-07-20,Charged Off,8963.45,20136.55,1,Duplicate Loan ID
+LN-100529,CUST-10530,33,Female,Salaried,79536.1,579,2500.0,60,26.95,Debt Consolidation,F,18.47,1,MORTGAGE,2024-04-29,Charged Off,254.45,2245.55,1,Duplicate Loan ID
+LN-106739,CUST-16740,27,Male,Business,82197.8,582,32800.0,36,22.89,Debt Consolidation,E,26.79,2,MORTGAGE,2023-02-16,Current,16246.2,20615.35,0,Duplicate Loan ID
+LN-106377,CUST-16378,50,Male,Salaried,82156.98,701,4000.0,36,11.66,Home Improvement,B,13.75,0,MORTGAGE,2023-02-06,Current,1999.01,2500.74,0,Duplicate Loan ID
+LN-102632,CUST-12633,65,Female,Salaried,43598.46,363,5700.0,36,29.47,Medical,G,34.31,2,MORTGAGE,2022-01-06,Charged Off,876.05,4823.95,1,Duplicate Loan ID
+LN-103609,CUST-13610,27,Male,Salaried,59465.76,673,18800.0,36,13.45,Home Improvement,C,27.06,4,MORTGAGE,2022-06-27,Current,13376.2,8767.85,0,Duplicate Loan ID
+LN-107154,CUST-17155,30,Male,Salaried,89620.13,702,26900.0,60,12.79,Debt Consolidation,B,27.17,1,RENT,2022-04-19,Current,12402.11,17598.42,0,Duplicate Loan ID
+LN-104574,CUST-14575,35,Female,Salaried,87393.27,655,32600.0,60,20.05,Debt Consolidation,D,20.99,2,OWN,2021-03-02,Charged Off,14096.63,18503.37,1,Duplicate Loan ID
+LN-101354,CUST-11355,39,Female,Salaried,108185.63,723,23900.0,60,11.44,Credit Card,B,20.31,3,MORTGAGE,2022-07-24,Current,9685.71,16635.72,0,Duplicate Loan ID
+LN-102344,CUST-12345,36,Female,Business,83944.1,745,12700.0,60,12.09,Credit Card,B,15.17,2,RENT,2021-11-16,Current,6958.32,7481.26,0,Duplicate Loan ID
+LN-100198,CUST-10199,59,Female,Salaried,86416.01,147,27200.0,60,18.07,Home Improvement,D,19.14,0,MORTGAGE,2022-08-28,Charged Off,6134.66,21065.34,1,Invalid Credit Score Range
+LN-100313,CUST-10314,43,Female,Self-Employed,111228.18,162,15600.0,36,15.23,Medical,C,20.21,5,MORTGAGE,2021-02-02,Fully Paid,19163.82,0.0,0,Invalid Credit Score Range
+LN-100319,CUST-10320,45,Female,Salaried,86933.03,967,7500.0,36,13.69,Car,C,20.81,4,MORTGAGE,2024-06-20,Current,0.0,7500.0,0,Invalid Credit Score Range
+LN-100431,CUST-10432,34,Male,Salaried,75320.38,263,2100.0,36,10.92,Debt Consolidation,B,32.6,2,MORTGAGE,2023-02-06,Current,1045.81,1315.64,0,Invalid Credit Score Range
+LN-100538,CUST-10539,28,Male,Salaried,93066.88,130,26900.0,36,11.1,Credit Card,B,20.12,2,RENT,2022-11-26,Current,14985.17,15661.12,0,Invalid Credit Score Range
+LN-101663,CUST-11664,40,Male,Salaried,84182.18,260,14000.0,60,15.4,Home Improvement,C,19.75,2,MORTGAGE,2022-11-13,Current,4774.7,10418.98,0,Invalid Credit Score Range
+LN-101733,CUST-11734,34,Female,Business,70550.69,918,18300.0,60,23.21,Credit Card,E,30.33,2,MORTGAGE,2021-12-30,Current,10211.86,10641.1,0,Invalid Credit Score Range
+LN-101881,CUST-11882,42,Male,Salaried,78015.22,948,31600.0,36,7.14,Home Improvement,A,16.11,1,MORTGAGE,2021-03-31,Fully Paid,34984.36,0.0,0,Invalid Credit Score Range
+LN-102480,CUST-12481,43,Male,Self-Employed,88324.93,242,28600.0,60,9.94,Small Business,B,24.83,1,MORTGAGE,2022-07-21,Charged Off,9875.09,18724.91,1,Invalid Credit Score Range
+LN-102561,CUST-12562,61,Male,Salaried,62410.75,147,3800.0,36,27.62,Small Business,F,23.92,1,MORTGAGE,2024-01-29,Charged Off,995.32,2804.68,1,Invalid Credit Score Range
+LN-102716,CUST-12717,48,Female,Salaried,101316.63,933,19500.0,60,10.55,Debt Consolidation,B,29.15,0,OWN,2023-08-26,Current,3421.44,16933.92,0,Invalid Credit Score Range
+LN-103304,CUST-13305,34,Male,Self-Employed,40567.04,933,12200.0,36,30.99,Debt Consolidation,G,42.29,3,MORTGAGE,2022-12-24,Charged Off,2154.69,10045.31,1,Invalid Credit Score Range
+LN-103609,CUST-13610,27,Male,Salaried,59465.76,905,18800.0,36,13.45,Home Improvement,C,27.06,4,MORTGAGE,2022-06-27,Current,13376.2,8767.85,0,Invalid Credit Score Range
+LN-103629,CUST-13630,35,Female,Salaried,118046.86,967,20600.0,60,6.54,Medical,A,13.97,2,OWN,2023-05-15,Current,4609.28,17143.04,0,Invalid Credit Score Range
+LN-103645,CUST-13646,30,Male,Salaried,73644.01,210,17000.0,60,17.05,Debt Consolidation,D,22.14,0,MORTGAGE,2022-02-10,Current,8917.14,10312.15,0,Invalid Credit Score Range
+LN-103765,CUST-13766,35,Female,Salaried,53317.89,907,21700.0,36,20.09,Small Business,D,34.01,0,MORTGAGE,2021-07-13,Fully Paid,28239.3,0.0,0,Invalid Credit Score Range
+LN-104328,CUST-14329,24,Female,Business,87148.6,999,22500.0,60,14.71,Debt Consolidation,C,31.17,0,RENT,2023-07-26,Current,4428.39,19178.71,0,Invalid Credit Score Range
+LN-104355,CUST-14356,27,Female,Business,102254.75,190,10600.0,60,15.9,Credit Card,C,35.81,1,RENT,2024-03-11,In Grace Period,572.13,10170.9,0,Invalid Credit Score Range
+LN-104448,CUST-14449,36,Female,Salaried,89596.79,220,32500.0,36,15.42,Debt Consolidation,C,20.76,1,MORTGAGE,2023-07-10,Current,10696.2,24477.85,0,Invalid Credit Score Range
+LN-104486,CUST-14487,40,Male,Salaried,55978.09,107,24300.0,36,20.8,Debt Consolidation,D,39.25,4,OWN,2023-11-07,Current,5216.4,20387.7,0,Invalid Credit Score Range
+LN-105019,CUST-15020,27,Female,Self-Employed,77548.78,925,20000.0,36,30.63,Credit Card,G,38.91,0,RENT,2023-09-13,Charged Off,6278.92,13721.08,1,Invalid Credit Score Range
+LN-105145,CUST-15146,59,Female,Contract,88143.4,260,11100.0,60,8.16,Credit Card,A,18.91,1,MORTGAGE,2023-09-01,Current,1925.48,9655.89,0,Invalid Credit Score Range
+LN-105198,CUST-15199,35,Male,Business,88511.6,258,12700.0,36,22.05,Debt Consolidation,E,25.35,1,RENT,2022-11-16,Charged Off,2462.05,10237.95,1,Invalid Credit Score Range
+LN-105625,CUST-15626,24,Male,Self-Employed,88083.27,216,26700.0,36,6.66,Credit Card,A,16.25,1,MORTGAGE,2022-08-16,Current,16860.01,14054.99,0,Invalid Credit Score Range
+LN-105787,CUST-15788,22,Female,Self-Employed,75811.38,913,22100.0,36,18.14,Medical,D,28.75,0,RENT,2022-08-30,Charged Off,2925.41,19174.59,1,Invalid Credit Score Range
+LN-106188,CUST-16189,45,Female,Self-Employed,57622.49,901,8400.0,36,15.49,Major Purchase,C,19.44,0,RENT,2022-01-31,Current,7290.75,2931.94,0,Invalid Credit Score Range
+LN-106305,CUST-16306,41,Female,Salaried,52591.32,142,10600.0,60,15.72,Debt Consolidation,C,35.52,5,MORTGAGE,2022-12-17,Charged Off,3726.13,6873.87,1,Invalid Credit Score Range
+LN-106993,CUST-16994,26,Male,Salaried,93898.1,930,6700.0,36,14.77,Debt Consolidation,C,24.93,0,OWN,2022-01-26,Default,1100.4,5599.6,1,Invalid Credit Score Range
+LN-106995,CUST-16996,33,Male,Salaried,72663.29,922,24000.0,36,10.55,Credit Card,B,31.22,0,OWN,2023-10-12,Current,5614.67,19789.0,0,Invalid Credit Score Range
+LN-107035,CUST-17036,35,Male,Salaried,88160.76,199,17200.0,60,11.59,Major Purchase,B,13.36,0,RENT,2023-11-04,Current,2426.23,15380.33,0,Invalid Credit Score Range
+LN-107068,CUST-17069,32,Male,Salaried,65907.27,954,16100.0,60,12.26,Medical,B,35.1,1,MORTGAGE,2023-01-04,Current,5126.08,12255.44,0,Invalid Credit Score Range
+LN-107513,CUST-17514,54,Male,Salaried,67681.8,995,14300.0,36,26.45,Credit Card,F,23.21,1,MORTGAGE,2022-07-12,Current,10794.12,6204.41,0,Invalid Credit Score Range
+LN-108527,CUST-18528,60,Male,Salaried,86876.76,962,30600.0,60,11.15,Debt Consolidation,B,30.37,0,MORTGAGE,2022-06-28,Current,12922.38,20908.22,0,Invalid Credit Score Range
+LN-108572,CUST-18573,62,Female,Self-Employed,57123.71,933,6400.0,60,11.41,Debt Consolidation,B,32.12,1,MORTGAGE,2023-04-15,Current,1578.53,5216.1,0,Invalid Credit Score Range
+LN-108639,CUST-18640,36,Male,Self-Employed,62478.21,103,14400.0,36,18.32,Debt Consolidation,D,17.04,1,MORTGAGE,2021-06-19,Charged Off,6098.35,8301.65,1,Invalid Credit Score Range
+LN-109125,CUST-10326,52,Male,Salaried,85489.63,180,7400.0,36,7.4,Major Purchase,G,19.97,1,MORTGAGE,2022-07-14,Current,4902.71,3722.97,0,Invalid Credit Score Range
+LN-109283,CUST-10484,39,Male,Salaried,93710.02,959,37600.0,36,25.12,Credit Card,F,26.32,0,RENT,2023-06-09,Charged Off,9443.13,28156.87,1,Invalid Credit Score Range
+LN-109379,CUST-10580,63,Female,Contract,90196.24,910,31600.0,60,11.72,Home Improvement,B,35.99,3,RENT,2021-08-15,In Grace Period,19513.53,16964.85,0,Invalid Credit Score Range
+LN-109456,CUST-10657,59,Female,Salaried,79290.63,142,25100.0,60,23.51,Credit Card,E,32.19,0,RENT,2021-09-11,Charged Off,6141.19,18958.81,1,Invalid Credit Score Range
+LN-109783,CUST-10984,42,Male,Salaried,96036.75,168,19300.0,36,11.05,Credit Card,B,21.89,2,MORTGAGE,2022-01-06,Current,16971.94,6571.05,0,Invalid Credit Score Range
+LN-100232,CUST-10233,34,Male,Salaried,42524.82,583,0.0,36,22.59,Home Improvement,E,23.45,3,MORTGAGE,2021-07-17,Fully Paid,7631.44,0.0,0,Extreme Loan Amount Outlier
+LN-101559,CUST-11560,44,Male,Salaried,66128.9,664,-5000.0,60,14.44,Small Business,C,25.56,1,MORTGAGE,2022-12-05,Current,8861.73,19453.7,0,Extreme Loan Amount Outlier
+LN-101734,CUST-11735,48,Female,Self-Employed,104368.91,736,250000.0,36,11.33,Credit Card,B,18.81,2,MORTGAGE,2022-03-20,In Grace Period,10302.34,5273.24,0,Extreme Loan Amount Outlier
+LN-102147,CUST-12148,40,Male,Self-Employed,94519.61,661,500000.0,60,14.15,Medical,C,29.89,0,RENT,2023-06-20,Current,4818.38,18886.22,0,Extreme Loan Amount Outlier
+LN-102316,CUST-12317,60,Male,Salaried,82526.17,713,-10000.0,36,11.59,Small Business,B,14.75,1,MORTGAGE,2022-12-19,Current,17561.97,20028.52,0,Extreme Loan Amount Outlier
+LN-102479,CUST-12480,37,Male,Salaried,114334.58,809,250000.0,60,8.34,Small Business,A,17.42,4,RENT,2024-05-25,Current,428.83,24378.38,0,Extreme Loan Amount Outlier
+LN-103064,CUST-13065,32,Male,Salaried,84240.84,671,-10000.0,60,15.48,Debt Consolidation,C,16.24,2,OWN,2021-10-03,Current,18428.93,17278.3,0,Extreme Loan Amount Outlier
+LN-103189,CUST-13190,39,Female,Salaried,80953.09,630,0.0,36,20.24,Major Purchase,D,34.52,2,RENT,2022-11-07,Current,19699.24,17425.57,0,Extreme Loan Amount Outlier
+LN-103432,CUST-13433,62,Male,Contract,95379.77,730,-5000.0,36,9.53,Small Business,B,14.81,1,MORTGAGE,2024-06-26,Current,0.0,30800.0,0,Extreme Loan Amount Outlier
+LN-103458,CUST-13459,56,Female,Business,128352.93,611,1000000.0,60,21.15,Debt Consolidation,E,33.16,1,MORTGAGE,2022-01-30,Current,3901.45,4373.91,0,Extreme Loan Amount Outlier
+LN-103517,CUST-13518,28,Female,Business,81600.2,682,0.0,60,15.7,Debt Consolidation,C,23.67,2,MORTGAGE,2021-09-09,Charged Off,13512.57,20887.43,1,Extreme Loan Amount Outlier
+LN-103704,CUST-13705,47,Male,Contract,78878.79,736,1000000.0,36,9.98,Credit Card,B,14.42,2,MORTGAGE,2022-12-23,Current,16115.97,18613.02,0,Extreme Loan Amount Outlier
+LN-103724,CUST-13725,21,Female,Self-Employed,79711.01,591,0.0,60,24.35,Debt Consolidation,E,30.34,2,RENT,2022-12-12,Current,1783.58,3962.32,0,Extreme Loan Amount Outlier
+LN-103865,CUST-13866,24,Male,Salaried,85583.73,838,500000.0,36,5.65,Home Improvement,A,19.01,1,MORTGAGE,2023-03-29,Current,8268.84,13098.37,0,Extreme Loan Amount Outlier
+LN-104194,CUST-14195,53,Male,Salaried,90541.94,655,500000.0,36,18.01,Home Improvement,D,21.71,0,MORTGAGE,2024-01-17,Current,923.51,5407.37,0,Extreme Loan Amount Outlier
+LN-104222,CUST-14223,57,Female,Salaried,78409.05,620,1000000.0,36,19.31,Debt Consolidation,D,28.79,1,MORTGAGE,2024-04-08,Current,737.13,11547.15,0,Extreme Loan Amount Outlier
+LN-104227,CUST-14228,24,Female,Salaried,91961.08,663,-10000.0,60,13.03,Small Business,C,16.51,1,RENT,2022-09-11,Default,3346.45,4553.55,1,Extreme Loan Amount Outlier
+LN-104464,CUST-14465,57,Female,Salaried,101995.64,810,0.0,60,7.88,Home Improvement,A,21.74,3,RENT,2021-06-07,Current,22626.01,18330.49,0,Extreme Loan Amount Outlier
+LN-105854,CUST-15855,44,Female,Contract,91109.96,835,1000000.0,36,7.38,Home Improvement,A,13.08,1,MORTGAGE,2021-10-07,Current,19294.98,5828.76,0,Extreme Loan Amount Outlier
+LN-106073,CUST-16074,38,Female,Salaried,104358.83,679,500000.0,60,16.43,Debt Consolidation,C,34.25,2,MORTGAGE,2022-06-19,Charged Off,3114.52,26285.48,1,Extreme Loan Amount Outlier
+LN-106109,CUST-16110,32,Female,Self-Employed,48254.36,593,-10000.0,60,23.82,Debt Consolidation,E,28.84,1,RENT,2021-03-31,Current,13966.37,8725.22,0,Extreme Loan Amount Outlier
+LN-106542,CUST-16543,32,Male,Salaried,65995.09,616,-10000.0,36,24.83,Major Purchase,E,30.96,1,OWN,2023-12-11,Charged Off,1338.0,4162.0,1,Extreme Loan Amount Outlier
+LN-106805,CUST-16806,37,Male,Self-Employed,81500.41,724,500000.0,60,11.85,Medical,B,29.86,2,OWN,2021-12-30,Current,13028.77,14828.42,0,Extreme Loan Amount Outlier
+LN-107115,CUST-17116,21,Female,Contract,82250.51,551,1000000.0,36,27.84,Debt Consolidation,F,24.27,1,MORTGAGE,2024-06-04,Current,0.0,36600.0,0,Extreme Loan Amount Outlier
+LN-108148,CUST-18149,21,Male,Contract,40702.97,619,250000.0,36,21.53,Home Improvement,E,34.29,1,MORTGAGE,2021-07-10,Fully Paid,20902.61,0.0,0,Extreme Loan Amount Outlier
+LN-108222,CUST-18223,22,Female,Self-Employed,86234.66,663,250000.0,60,16.64,Home Improvement,C,20.13,2,MORTGAGE,2022-02-26,Current,1213.18,1490.12,0,Extreme Loan Amount Outlier
+LN-108708,CUST-18709,46,Male,Self-Employed,82330.32,699,0.0,60,15.64,Credit Card,C,13.42,1,MORTGAGE,2023-12-30,Current,3525.71,30055.72,0,Extreme Loan Amount Outlier
+LN-109232,CUST-10433,24,Female,Self-Employed,83585.17,749,-10000.0,36,11.68,Credit Card,B,17.89,3,RENT,2021-03-06,Fully Paid,2938.0,0.0,0,Extreme Loan Amount Outlier
+LN-109363,CUST-10564,51,Female,Contract,92618.27,781,0.0,60,6.17,Debt Consolidation,A,10.93,0,OWN,2022-04-18,Current,6253.82,9309.64,0,Extreme Loan Amount Outlier
+LN-109724,CUST-10925,42,Female,Self-Employed,61169.61,667,500000.0,36,13.69,Debt Consolidation,C,37.33,2,MORTGAGE,2023-08-19,Charged Off,3294.94,6605.06,1,Extreme Loan Amount Outlier
+LN-101064,CUST-11065,53,Male,Business,127847.98,681,38600.0,36,13.95,Debt Consolidation,C,21.33,3,MORTGAGE,INVALID_DATE,Current,27528.23,17953.83,0,Corrupt Issue Date
+LN-101797,CUST-11798,39,Male,Salaried,88228.0,714,8500.0,60,11.51,Credit Card,B,17.73,1,RENT,INVALID_DATE,Current,449.46,8162.9,0,Corrupt Issue Date
+LN-101966,CUST-11967,33,Other,Self-Employed,56834.1,647,17000.0,36,20.24,Credit Card,D,38.18,2,MORTGAGE,99/99/9999,Charged Off,5081.95,11918.05,1,Corrupt Issue Date
+LN-102526,CUST-12527,59,Male,Salaried,126853.99,603,31100.0,60,24.52,Home Improvement,E,30.18,2,RENT,99/99/9999,Current,4073.17,28045.12,0,Corrupt Issue Date
+LN-102562,CUST-12563,40,Male,Salaried,72698.77,603,5700.0,36,21.09,Major Purchase,E,35.9,0,RENT,0000-00-00,Current,175.03,5568.73,0,Corrupt Issue Date
+LN-103132,CUST-13133,44,Male,Contract,52421.63,708,18400.0,36,9.77,Car,B,19.86,0,RENT,INVALID_DATE,Current,8577.26,11967.06,0,Corrupt Issue Date
+LN-103425,CUST-13426,43,Female,Contract,59517.19,670,22800.0,36,14.44,Major Purchase,C,31.67,2,RENT,0000-00-00,Default,3782.82,19017.18,1,Corrupt Issue Date
+LN-103760,CUST-13761,38,Male,Business,118189.32,657,10000.0,36,19.91,Debt Consolidation,D,25.09,2,RENT,0000-00-00,Current,6719.47,4960.4,0,Corrupt Issue Date
+LN-104059,CUST-14060,30,Female,Salaried,79900.14,732,6600.0,36,12.63,Credit Card,B,16.01,0,MORTGAGE,0000-00-00,Current,6042.24,2068.32,0,Corrupt Issue Date
+LN-104249,CUST-14250,36,Female,Self-Employed,90591.94,699,6800.0,60,15.42,Debt Consolidation,C,29.93,4,RENT,INVALID_DATE,Current,3418.0,4236.5,0,Corrupt Issue Date
+LN-104634,CUST-14635,42,Male,Salaried,81283.97,642,31900.0,60,17.33,Debt Consolidation,D,27.68,1,RENT,99/99/9999,Default,11856.25,20043.75,1,Corrupt Issue Date
+LN-104981,CUST-14982,31,Female,Self-Employed,93254.72,689,8800.0,60,15.04,Debt Consolidation,C,18.81,1,MORTGAGE,2023-02-31,Current,2523.14,6907.65,0,Corrupt Issue Date
+LN-105521,CUST-15522,26,Male,Salaried,79240.77,667,11300.0,36,15.16,Credit Card,C,18.21,2,MORTGAGE,0000-00-00,Current,0.0,11300.0,0,Corrupt Issue Date
+LN-105818,CUST-15819,24,Female,Self-Employed,68293.09,724,20100.0,36,11.18,Debt Consolidation,B,34.26,2,OWN,INVALID_DATE,Current,8843.16,13467.63,0,Corrupt Issue Date
+LN-105878,CUST-15879,24,Female,Salaried,68405.64,576,20700.0,60,25.29,Home Improvement,F,26.05,0,RENT,2023-02-31,Charged Off,6259.59,14440.41,1,Corrupt Issue Date
+LN-105969,CUST-15970,38,Female,Salaried,101670.19,700,22300.0,36,9.33,Debt Consolidation,B,35.03,2,MORTGAGE,99/99/9999,Fully Paid,25420.89,0.0,0,Corrupt Issue Date
+LN-106718,CUST-16719,41,Male,Self-Employed,116863.56,667,26500.0,60,15.87,Debt Consolidation,C,27.41,1,MORTGAGE,99/99/9999,Current,0.0,26500.0,0,Corrupt Issue Date
+LN-106746,CUST-16747,40,Female,Salaried,77308.97,681,3900.0,60,16.93,Debt Consolidation,C,18.61,4,MORTGAGE,2023-02-31,In Grace Period,1269.04,2948.22,0,Corrupt Issue Date
+LN-107099,CUST-17100,29,Male,Business,107049.98,682,18700.0,60,15.3,Small Business,C,19.12,1,RENT,2023-02-31,Current,1677.55,17441.84,0,Corrupt Issue Date
+LN-107264,CUST-17265,37,Male,Salaried,109513.74,748,16200.0,60,9.03,Credit Card,B,14.32,2,RENT,2023-02-31,In Grace Period,9876.67,8792.5,0,Corrupt Issue Date
+LN-107282,CUST-17283,22,Female,Self-Employed,76456.39,594,29500.0,60,21.22,Credit Card,E,36.34,0,MORTGAGE,2023-02-31,Current,7613.66,23789.76,0,Corrupt Issue Date
+LN-107294,CUST-17295,29,Female,Salaried,111870.71,836,39800.0,36,8.79,Debt Consolidation,A,29.87,1,MORTGAGE,0000-00-00,Current,9233.16,32875.13,0,Corrupt Issue Date
+LN-107775,CUST-17776,25,Female,Salaried,95739.24,812,28700.0,60,6.03,Debt Consolidation,A,12.71,3,RENT,2023-02-31,Default,7486.91,21213.09,1,Corrupt Issue Date
+LN-107995,CUST-17996,25,Male,Business,84066.52,656,23600.0,36,19.4,Credit Card,D,21.34,1,MORTGAGE,99/99/9999,In Grace Period,11506.31,14970.27,0,Corrupt Issue Date
+LN-108371,CUST-18372,27,Female,Self-Employed,75730.66,734,29500.0,36,10.18,Credit Card,B,15.17,1,RENT,99/99/9999,Current,15500.77,17874.42,0,Corrupt Issue Date
+LN-108642,CUST-18643,26,Male,Salaried,49636.28,741,12400.0,60,12.21,Car,B,13.15,3,MORTGAGE,2023-02-31,Current,5043.52,8617.36,0,Corrupt Issue Date
+LN-108742,CUST-18743,23,Male,Business,81126.83,752,4100.0,36,6.81,Credit Card,A,24.77,2,RENT,INVALID_DATE,Current,117.77,4011.67,0,Corrupt Issue Date
+LN-109492,CUST-10693,22,Male,Salaried,110470.64,817,38900.0,60,8.44,Debt Consolidation,A,32.05,2,MORTGAGE,INVALID_DATE,Current,12162.47,29778.15,0,Corrupt Issue Date
+LN-109664,CUST-10865,42,Female,Salaried,80909.4,589,24500.0,36,24.26,Small Business,E,27.05,0,RENT,INVALID_DATE,Current,3815.53,21638.35,0,Corrupt Issue Date

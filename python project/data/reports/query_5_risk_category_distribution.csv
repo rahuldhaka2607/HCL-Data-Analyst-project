@@ -1,0 +1,5 @@
+risk_category,total_borrowers,total_capital_exposure,current_outstanding_exposure,eligible_closed_loans,defaulted_loans,default_rate_pct
+Low Risk,1175,23621600.0,14788818.04,213,117,54.93
+Moderate Risk,4705,90603100.0,57935208.56,989,694,70.17
+High Risk,3165,57119800.0,36916014.52,1185,1004,84.73
+Critical Risk,856,14028800.0,9195985.15,460,428,93.04

@@ -1,0 +1,2 @@
+total_loans,total_unique_borrowers,total_portfolio_volume,avg_loan_size,avg_portfolio_interest_rate,total_cumulative_repayments,total_outstanding_balance,active_current_loans,active_grace_period_loans,total_closed_eligible_loans,total_defaulted_loans,overall_default_rate_pct
+9901,8718,185373300.0,18722.68,15.24,83658386.13,118836026.27,6610,444,2847,2243,78.78

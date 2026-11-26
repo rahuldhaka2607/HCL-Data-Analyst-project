@@ -1,0 +1,8 @@
+loan_grade,grade_name,total_loans,eligible_closed_loans,defaulted_loans,default_rate_pct,avg_interest_rate_pct,avg_loan_amount
+A,Grade A Prime,1848,271,133,49.08,7.25,20157.41
+B,Grade B Near Prime,2337,470,316,67.23,11.02,19599.19
+C,Grade C Standard,2149,564,422,74.82,14.99,18979.06
+D,Grade D Near Standard,1617,573,484,84.47,19.02,18146.26
+E,Grade E Subprime,1127,484,431,89.05,23.01,17133.45
+F,Grade F Deep Subprime,548,304,287,94.41,26.8,16817.15
+G,Grade G Extreme Subprime,275,181,170,93.92,29.51,13328.73

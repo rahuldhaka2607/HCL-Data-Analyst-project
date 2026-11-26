@@ -1,0 +1,116 @@
+// ==============================================================================
+// Project No. 6: Loan Default Analysis and Risk Dashboard
+// File: powerbi/dax_measures.dax
+// Purpose: Production-Ready DAX Measures Library for Microsoft Power BI Desktop
+// Every measure includes a single-sentence plain-English explanation.
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// MEASURE 1: Total Loans
+// Explanation: Counts the total number of originated loan contracts in the portfolio.
+// ------------------------------------------------------------------------------
+Total Loans = 
+COUNTROWS(FACT_LOANS)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 2: Total Loan Amount
+// Explanation: Calculates the total principal dollar amount disbursed across all loans.
+// ------------------------------------------------------------------------------
+Total Loan Amount = 
+SUM(FACT_LOANS[loan_amount])
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 3: Total Borrowers
+// Explanation: Counts the number of distinct unique customer accounts in the portfolio.
+// ------------------------------------------------------------------------------
+Total Borrowers = 
+DISTINCTCOUNT(FACT_LOANS[customer_id])
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 4: Defaulted Loans
+// Explanation: Counts the number of loans that resulted in default or charge-off.
+// ------------------------------------------------------------------------------
+Defaulted Loans = 
+CALCULATE(
+    COUNTROWS(FACT_LOANS),
+    FACT_LOANS[loan_status] IN {"Charged Off", "Default"}
+)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 5: Eligible Loans
+// Explanation: Counts the number of completed or closed loans used as the default rate denominator.
+// ------------------------------------------------------------------------------
+Eligible Loans = 
+CALCULATE(
+    COUNTROWS(FACT_LOANS),
+    FACT_LOANS[loan_status] IN {"Fully Paid", "Charged Off", "Default"}
+)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 6: Default Rate
+// Explanation: Calculates the percentage of closed loans that failed to repay and defaulted.
+// ------------------------------------------------------------------------------
+Default Rate = 
+DIVIDE([Defaulted Loans], [Eligible Loans], 0)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 7: Average Loan Amount
+// Explanation: Computes the arithmetic mean principal disbursement size per loan.
+// ------------------------------------------------------------------------------
+Average Loan Amount = 
+AVERAGE(FACT_LOANS[loan_amount])
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 8: Average Credit Score
+// Explanation: Computes the mean FICO credit score across all portfolio borrowers.
+// ------------------------------------------------------------------------------
+Average Credit Score = 
+AVERAGE(DIM_CUSTOMER[credit_score])
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 9: Outstanding Balance
+// Explanation: Sums the remaining unpaid principal balance currently owed by borrowers.
+// ------------------------------------------------------------------------------
+Outstanding Balance = 
+SUM(FACT_LOANS[outstanding_balance])
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 10: Default Rate by Grade
+// Explanation: Calculates the default percentage specifically within each credit risk rating grade.
+// ------------------------------------------------------------------------------
+Default Rate by Grade = 
+CALCULATE(
+    [Default Rate],
+    VALUES(DIM_LOAN_GRADE[grade_id])
+)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 11: Default Rate by Income Band
+// Explanation: Evaluates default frequency across segmented borrower earning tiers.
+// ------------------------------------------------------------------------------
+Default Rate by Income Band = 
+CALCULATE(
+    [Default Rate],
+    VALUES(DIM_CUSTOMER[income_band])
+)
+
+
+// ------------------------------------------------------------------------------
+// MEASURE 12: Default Rate by Purpose
+// Explanation: Computes default concentration segmented by the borrower's stated loan expenditure purpose.
+// ------------------------------------------------------------------------------
+Default Rate by Purpose = 
+CALCULATE(
+    [Default Rate],
+    VALUES(DIM_LOAN_PURPOSE[purpose_name])
+)
